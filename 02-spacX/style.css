@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    color:  #82a5ca;
+}
+.hero-section{
+/* background-image: url("./images/universe.jpg"); */
+    background-image: url("./images/galaxy.webp");
+    /* https://giphy.com/ 
+    https://coolors.co/image-picker
+    */
+    
+    background-size: cover;
+    padding: 10px 0 40px 0
+}
+.title{
+text-shadow: 0px 0px 4px black;
+}
+
+.btn{
+   padding: 6px 12px; 
+   background: white;
+   border: none;
+   /* font-family: inherit; */
+   font-family: 'Orbitron', sans-serif;
+   color: #82a5ca;
+   font-weight: 800;
+
+}
+.underline{
+    /* text-decoration: underline; */
+    border-bottom: 4px solid white;
+}
+
+#main-logo{
+    width: 100px;
+}
+
+/* https://www.1001fonts.com/?page=2 */
